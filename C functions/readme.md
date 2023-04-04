@@ -9,4 +9,9 @@ so it turns out you already know what a function is, You have been using it  the
 Information can be passed to functions as a parameter, paramerters act as variables inside the function.
 Parameters are specified after the function name, inside the parentheses, you can add as many parameters as you want, just seperate them with a comma: 
 
-### 
+## Function Declaration and definition:
+you just leaned from the previous chapters that you can create and call a function in the following way
+A function consist of two parts : 
+    - declaration : the function's name, return type, and parameters(if any).
+    - Definition : the body of the function (code to be executed)
+
