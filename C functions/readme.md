@@ -15,3 +15,5 @@ A function consist of two parts :
     - declaration : the function's name, return type, and parameters(if any).
     - Definition : the body of the function (code to be executed)
 
+## C recurion
+recursion is the technique of making a function call itself, this technique provides a way to break complicated problems downs into simple problems which are easier to solve;
